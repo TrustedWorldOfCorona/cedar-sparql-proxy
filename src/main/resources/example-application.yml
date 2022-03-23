@@ -1,0 +1,3 @@
+cedar:
+  base: "https://resource.metadatacenter.org"
+  token: "apiKey ..."
